@@ -1,0 +1,17 @@
+.header-inner{
+    display: inline-block;
+}
+
+.container1{
+    float: left;
+}
+
+.container2{
+    float: right;
+}
+
+a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: grey;
+}
